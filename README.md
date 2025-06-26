@@ -1,4 +1,4 @@
-<h1 align="center">✨ 김광현 | Backend Developer</h1>
+<h1 align="center">김광현 | Backend Developer</h1>
 <p align="center">
   SSAFY 13기를 통해 개발을 시작한 신입 백엔드 개발자입니다.<br/>
   웹 서비스를 만드는 것을 좋아하며, 백엔드 중심의 기술 역량을 키워가고 있습니다.
@@ -6,16 +6,16 @@
 
 ---
 
-## 💡 About Me
+## About Me
 
-- 🧑‍🎓 SSAFY(삼성 청년 SW 아카데미) 13기
-- 🛠 Django + Vue.js 기반 도서 추천 웹앱 프로젝트
-- 👨‍💻 Node.js 백엔드 사이드 프로젝트 진행 중
-- ☕ Java & Spring Boot 학습 중
+- SSAFY(삼성 청년 SW 아카데미) 13기
+- Django + Vue.js 기반 도서 추천 웹앱 프로젝트
+- Node.js 백엔드 사이드 프로젝트 진행 중
+- Java & Spring Boot 학습 중
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ### 🖥 Languages & Frameworks
 <p>
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
 </p>
 
-### ⚙️ Tools
+### ⚙Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -36,16 +36,16 @@
 
 ---
 
-## 🗂 Projects
+## Projects
 
 | 이름 | 설명 | 기술 스택 |
 |------|------|-----------|
-| 📚 도서 추천 웹앱 | Django + Vue 기반 추천 알고리즘 적용 웹 서비스 | Django, Vue.js, PostgreSQL |
-| 👥 개발자 매칭 플랫폼 | 팀 빌딩 플랫폼 (Node.js + MongoDB 기반) | Node.js, Express, MongoDB |
+| 도서 추천 웹앱 | Django + Vue 기반 추천 알고리즘 적용 웹 서비스 | Django, Vue.js, PostgreSQL |
+| 개발자 매칭 플랫폼 | 팀 빌딩 플랫폼 (Node.js + MongoDB 기반) | Node.js, Express, MongoDB |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kimgwang-hyeon&show_icons=true&theme=dracula&hide_border=true"/>
@@ -54,7 +54,7 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 <p align="center">
   <a href="https://github.com/kimgwang-hyeon" target="_blank">
