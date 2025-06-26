@@ -42,7 +42,7 @@
 
 | 프로젝트 | 설명 | 기술 스택 | 문서 | 코드 |
 |----------|------|-----------|------|------|
-| 📚 도서 추천 웹앱 | Django + Vue 기반 추천 시스템 | Django, Vue.js, PostgreSQL | [Notion 문서](https://www.notion.so/PJT-Blookin-20c4141c147d8031b4cdc40d2187c6dd?source=copy_link)| [GitHub](https://github.com/kimgwang-hyeon/Blookin) |
+| 📚 도서 추천 웹앱 | Django + Vue 기반 추천 시스템 | Django, Vue.js | [Notion 문서](https://www.notion.so/PJT-Blookin-20c4141c147d8031b4cdc40d2187c6dd?source=copy_link)| [GitHub](https://github.com/kimgwang-hyeon/Blookin) |
 | 👥 개발자 매칭 플랫폼 | Node.js + MongoDB 기반 팀 빌딩 서비스 | Node.js, Express, MongoDB | [Notion 문서](https://www.notion.so/team/2116b135-0e34-812a-a60d-0042c128385b/join) | [GitHub](https://github.com/ywk927/Side_Project) |
 
 
