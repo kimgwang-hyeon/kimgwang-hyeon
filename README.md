@@ -9,7 +9,7 @@
 ## About Me
 
 - SSAFY(삼성 청년 SW 아카데미) 13기
-- Django + Vue.js 기반 도서 추천 서비스(싸피 1학기 관통 프로젝트)
+- Django + Vue.js 기반 도서 추천 서비스(싸피 1학기 관통 프로젝트 우수상)
 - Node.js 백엔드 사이드 프로젝트 진행 중
 - Java & Spring Boot 학습 중
 
