@@ -9,7 +9,7 @@
 ## About Me
 
 - SSAFY(삼성 청년 SW 아카데미) 13기
-- Django + Vue.js 기반 도서 추천 웹앱 프로젝트
+- Django + Vue.js 기반 도서 추천 서비스(싸피 1학기 관통 프로젝트)
 - Node.js 백엔드 사이드 프로젝트 진행 중
 - Java & Spring Boot 학습 중
 
@@ -38,10 +38,13 @@
 
 ## Projects
 
-| 이름 | 설명 | 기술 스택 |
-|------|------|-----------|
-| 도서 추천 웹앱 | Django + Vue 기반 추천 알고리즘 적용 웹 서비스 | Django, Vue.js, PostgreSQL |
-| 개발자 매칭 플랫폼 | 팀 빌딩 플랫폼 (Node.js + MongoDB 기반) | Node.js, Express, MongoDB |
+## 🗂 Projects
+
+| 프로젝트 | 설명 | 기술 스택 | 문서 | 코드 |
+|----------|------|-----------|------|------|
+| 📚 도서 추천 웹앱 | Django + Vue 기반 추천 시스템 | Django, Vue.js, PostgreSQL | [Notion 문서](https://www.notion.so/PJT-Blookin-20c4141c147d8031b4cdc40d2187c6dd?source=copy_link)| [GitHub](https://github.com/kimgwang-hyeon/Blookin) |
+| 👥 개발자 매칭 플랫폼 | Node.js + MongoDB 기반 팀 빌딩 서비스 | Node.js, Express, MongoDB | [Notion 문서](https://www.notion.so/team/2116b135-0e34-812a-a60d-0042c128385b/join) | [GitHub](https://github.com/ywk927/Side_Project) |
+
 
 ---
 
