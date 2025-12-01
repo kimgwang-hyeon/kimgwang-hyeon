@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm KIM GWANGHYEON</h1>
+<h1 align="center"> Hi, I'm GWANGHYEON KIM</h1>
 
 <p align="center">
   <strong>AI/ML & Backend Developer</strong><br/>
@@ -19,16 +19,14 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
-- 🏫 SSAFY 13기 (삼성 청년 SW 아카데미)
-- 🤖 PyTorch 기반 딥러닝 모델 개발 및 최적화 전문
-- 📊 대용량 데이터 처리 및 시계열 분석 경험
-- 🚀 경량화 모델 서빙 (LoRA, ONNX) 전문가
+- 서울시립대학교 통계학과 졸업 (18.03~25.03)
+- SSAFY 13기 (삼성 청년 SW 아카데미)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -43,22 +41,17 @@
 
 ---
 
-## 🚀 Highlights
 
-- 🎯 **어린이 음성 인식 PER 60.3% 개선** (Wav2Vec2 + LoRA 파인튜닝)
-- 💾 **메모리 사용량 80% 감소** (80GB → 16GB, DuckDB 최적화)
-- 📈 **감정 인식 정확도 32-42%p 향상** (MobileNetV3 경량화)
-- ⚡ **평균 30ms 이내 AI 추론** 응답 달성
-
----
-
-## 📂 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| 🎮 **Reading Buddy** | VR 기반 난독증 아동 한글 학습 | PyTorch, Wav2Vec2, FastAPI | [Repository](https://github.com/readingbuddyai/readingbuddy) |
-| 🎨 **ZMNNOORY** | 동양인 얼굴 인식 편향 해결 플랫폼 | PyTorch, Spring Boot, AWS | [Repository](https://github.com/kimgwang-hyeon/zmnnoory) |
-| 📡 **5G RAN KPI** | 삼성전자 협력 시계열 예측 | GRU, LSTM, DuckDB | [Repository](https://github.com/kimgwang-hyeon/5g-ran-kpi) |
+| **Blookin** | AI 기반 도서 분석 및 창작 지원 플랫폼  | Django, Vue 3 | [Repository](https://github.com/kimgwang-hyeon/Blookin) |
+| **weMatch** | 개발자 중심 팀 매칭 플랫폼 | Node.js + Express, MongoDB | [Repository](https://github.com/kimgwang-hyeon/weMatch) |
+| **ZMNNOORY** | 동양인 얼굴 인식 편향 해결 플랫폼 | PyTorch, Spring Boot, AWS | [Repository](https://github.com/kimgwang-hyeon/zmnnoory) |
+| **5G RAN KPI** | 삼성전자 협력 시계열 예측 | GRU, LSTM, DuckDB | [보안상x]() |
+| **Reading Buddy** | VR 기반 난독증 아동 한글 학습 | PyTorch, Wav2Vec2, FastAPI | [Repository](https://github.com/readingbuddyai/readingbuddy) |
+
 
 <p align="center">
   <a href="https://kimgwang-hyeon.github.io/">
@@ -68,7 +61,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kimgwang-hyeon&show_icons=true&theme=dracula&hide_border=true" height="165"/>
