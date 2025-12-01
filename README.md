@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://kimgwang-hyeon.github.io/">
-    <img src="https://img.shields.io/badge/더_많은_프로젝트_보기-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/포트폴리오_상세보기-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </p>
 
