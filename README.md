@@ -1,73 +1,82 @@
-<h1 align="center">김광현 | Backend Developer</h1>
-<p align="center">
-  SSAFY 13기를 통해 개발을 시작한 신입 백엔드 개발자입니다.<br/>
-  웹 서비스를 만드는 것을 좋아하며, 백엔드 중심의 기술 역량을 키워가고 있습니다.
-</p>
-
----
-
-## About Me
-
-- SSAFY(삼성 청년 SW 아카데미) 13기
-- Django + Vue.js 기반 도서 추천 서비스(싸피 1학기 관통 프로젝트 우수상)
-- Node.js 백엔드 사이드 프로젝트 진행 중
-- Java & Spring Boot 학습 중
-
----
-
-## Tech Stack
-
-### 🖥 Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-</p>
-
-### ⚙Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-</p>
-
----
-
-## Projects
-
-## 🗂 Projects
-
-| 프로젝트 | 설명 | 기술 스택 | 문서 | 코드 |
-|----------|------|-----------|------|------|
-| 📚 도서 추천 웹앱 | Django + Vue 기반 추천 시스템 | Django, Vue.js | [Notion 문서](https://www.notion.so/PJT-Blookin-20c4141c147d8031b4cdc40d2187c6dd?source=copy_link)| [GitHub](https://github.com/kimgwang-hyeon/Blookin) |
-| 👥 개발자 매칭 플랫폼 | Node.js + MongoDB 기반 팀 빌딩 서비스 | Node.js, Express, MongoDB | [Notion 문서](https://www.notion.so/team/2116b135-0e34-812a-a60d-0042c128385b/join) | [GitHub](https://github.com/ywk927/Side_Project) |
-
-
----
-
-## GitHub Stats
+<h1 align="center">👋 Hi, I'm KIM GWANGHYEON</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimgwang-hyeon&show_icons=true&theme=dracula&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimgwang-hyeon&layout=compact&theme=dracula&hide_border=true"/>
+  <strong>AI/ML & Backend Developer</strong><br/>
+  "문제의 본질을 파악하고, 예방하는 개발자"
 </p>
 
----
-
-## Contact
-
 <p align="center">
+  <a href="https://kimgwang-hyeon.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+  <a href="mailto:kyn06114@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://github.com/kimgwang-hyeon" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/9wan9_hyeon" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
+---
+
+## 🎯 About Me
+
+- 🏫 SSAFY 13기 (삼성 청년 SW 아카데미)
+- 🤖 PyTorch 기반 딥러닝 모델 개발 및 최적화 전문
+- 📊 대용량 데이터 처리 및 시계열 분석 경험
+- 🚀 경량화 모델 서빙 (LoRA, ONNX) 전문가
+
+---
+
+## 💻 Tech Stack
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kimgwang-hyeon&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Highlights
+
+- 🎯 **어린이 음성 인식 PER 60.3% 개선** (Wav2Vec2 + LoRA 파인튜닝)
+- 💾 **메모리 사용량 80% 감소** (80GB → 16GB, DuckDB 최적화)
+- 📈 **감정 인식 정확도 32-42%p 향상** (MobileNetV3 경량화)
+- ⚡ **평균 30ms 이내 AI 추론** 응답 달성
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| 🎮 **Reading Buddy** | VR 기반 난독증 아동 한글 학습 | PyTorch, Wav2Vec2, FastAPI | [Repository](https://github.com/readingbuddyai/readingbuddy) |
+| 🎨 **ZMNNOORY** | 동양인 얼굴 인식 편향 해결 플랫폼 | PyTorch, Spring Boot, AWS | [Repository](https://github.com/kimgwang-hyeon/zmnnoory) |
+| 📡 **5G RAN KPI** | 삼성전자 협력 시계열 예측 | GRU, LSTM, DuckDB | [Repository](https://github.com/kimgwang-hyeon/5g-ran-kpi) |
+
+<p align="center">
+  <a href="https://kimgwang-hyeon.github.io/">
+    <img src="https://img.shields.io/badge/더_많은_프로젝트_보기-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimgwang-hyeon&show_icons=true&theme=dracula&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimgwang-hyeon&layout=compact&theme=dracula&hide_border=true" height="165"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kimgwang-hyeon&style=flat-square&color=blueviolet" />
 </p>
