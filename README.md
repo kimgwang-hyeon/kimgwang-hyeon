@@ -64,8 +64,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimgwang-hyeon&show_icons=true&theme=dracula&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimgwang-hyeon&layout=compact&theme=dracula&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimgwang-hyeon&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimgwang-hyeon&theme=dracula&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimgwang-hyeon&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 ---
